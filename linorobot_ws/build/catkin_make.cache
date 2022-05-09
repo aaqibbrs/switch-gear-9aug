@@ -1,0 +1,2 @@
+common_ipc/karcher:common_ipc/wspp:imu_calib:incrpliidar/inclined_lidar:lino_msgs:lino_pid:lino_udev:linorobot:openslam_gmapping
+-DCATKIN_DEVEL_PREFIX=/home/bros/linorobot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/bros/linorobot_ws/install -G Unix Makefiles
