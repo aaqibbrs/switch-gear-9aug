@@ -1,0 +1,8 @@
+prefix=/home/bros/two_wheel_robot/install
+
+Name: rplidar_ros_front_top
+Description: Description of rplidar_ros_front_top
+Version: 1.10.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
