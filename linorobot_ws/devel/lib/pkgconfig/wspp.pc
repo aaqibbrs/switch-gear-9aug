@@ -1,8 +1,0 @@
-prefix=/home/bros/linorobot_ws/devel
-
-Name: wspp
-Description: Description of wspp
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

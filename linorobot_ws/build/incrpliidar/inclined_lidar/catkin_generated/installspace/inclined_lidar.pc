@@ -1,8 +1,0 @@
-prefix=/home/bros/linorobot_ws/install
-
-Name: inclined_lidar
-Description: Description of inclined_lidar
-Version: 1.10.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

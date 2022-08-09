@@ -1,0 +1,8 @@
+prefix=/home/bros/linorobot_ws/devel
+
+Name: rplidar_ros_front_mid
+Description: Description of rplidar_ros_front_mid
+Version: 1.10.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

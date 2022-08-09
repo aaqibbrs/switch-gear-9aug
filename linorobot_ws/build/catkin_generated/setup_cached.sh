@@ -7,5 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export PATH='/opt/ros/melodic/bin:/home/bros/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin'
+export PKG_CONFIG_PATH='/opt/ros/melodic/lib/pkgconfig'
 export PWD='/home/bros/linorobot_ws/build'
